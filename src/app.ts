@@ -1,4 +1,5 @@
-
+// Github link for Movie recommendation app using javascript: https://github.com/BahadurKhan10/Movie-Recommendation-App-using-Javascript.git
+    
     const form = document.getElementById("form") as HTMLFormElement;
     const genreSelect = document.getElementById("genre") as HTMLSelectElement;
     const ratingSelect = document.getElementById("rating") as HTMLSelectElement;
