@@ -1,4 +1,8 @@
 "use strict";
+
+// Github link for Movie recommendation app using javascript: https://github.com/BahadurKhan10/Movie-Recommendation-App-using-Javascript.git
+
+
 const form = document.getElementById("form");
 const genreSelect = document.getElementById("genre");
 const ratingSelect = document.getElementById("rating");
